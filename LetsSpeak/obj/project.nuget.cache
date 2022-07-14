@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "edU9phZcVmn9ommGEFbXpijbqPwmp0clKPNCMvVzfuHbdxfjoZQFngQnVKnjbao9NAtqQnGahNXwJpBlu2w2Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eduardo\\source\\repos\\LetsSpeak\\LetsSpeak\\LetsSpeak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo\\.nuget\\packages\\sharprompt\\2.4.3\\sharprompt.2.4.3.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
